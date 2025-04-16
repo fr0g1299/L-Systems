@@ -174,5 +174,8 @@ pyproject.toml
 # vscode settings:
 .vscode/
 
+# frames for animations
+frames_3D/
+
 # PyPI configuration file
 .pypirc

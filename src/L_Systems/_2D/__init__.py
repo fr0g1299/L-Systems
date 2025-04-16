@@ -1,0 +1,31 @@
+from . import (
+    dragon,
+    fractal_circle,
+    fractal_triangle,
+    gosper,
+    hilbert,
+    koch,
+    rectangles,
+    seaweed,
+    sierpinski,
+    small_tree,
+    something,
+    something2,
+    tree,
+)
+
+available_2d = {
+    "dragon": dragon,
+    "fractal_circle": fractal_circle,
+    "fractal_triangle": fractal_triangle,
+    "gosper": gosper,
+    "hilbert": hilbert,
+    "koch": koch,
+    "rectangles": rectangles,
+    "seaweed": seaweed,
+    "sierpinski": sierpinski,
+    "small_tree": small_tree,
+    "something": something,
+    "something2": something2,
+    "tree": tree,
+}
