@@ -90,7 +90,7 @@ angle = 25
 step = 1.3
 main_color = "#8B4513"
 point_color = "#228B22"
-points = True
+points = True  # optional
 ```
 
 ## Available Systems
